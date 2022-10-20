@@ -10,6 +10,7 @@ fi
 source ~/.dotfiles/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.dotfiles/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 source ~/.dotfiles/fancy-ctrl-z.zsh
+source ~/.dotfiles/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
