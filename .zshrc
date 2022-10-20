@@ -7,7 +7,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-source ~/powerlevel10k/powerlevel10k.zsh-theme
+source ~/.dotfiles/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.dotfiles/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
