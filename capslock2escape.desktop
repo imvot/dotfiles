@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/bash -c '/usr/bin/setxkbmap -option "caps:swapescape"'
+Name=capslock2escape
+Comment=Vim friendly
