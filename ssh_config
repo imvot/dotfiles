@@ -1,0 +1,4 @@
+Host github.com
+	IdentitiesOnly yes
+	IdentityFile /home/vt/.ssh/id_imvot_sk
+	IdentityAgent none
