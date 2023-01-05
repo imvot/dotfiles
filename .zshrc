@@ -1,6 +1,7 @@
 export PATH=$PATH:~/.local/bin/:~/.cargo/bin
 
 source ~/.dotfiles/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.dotfiles/fancy-ctrl-z.zsh
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
