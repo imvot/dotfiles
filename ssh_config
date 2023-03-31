@@ -1,4 +1,4 @@
-Host github.com
+Host github.com 10.0.0.78 10.0.0.119 178.249.214.10 mya2zservices.com
 	IdentitiesOnly yes
 	IdentityFile /home/vt/.ssh/id_imvot_sk
 	IdentityAgent none
